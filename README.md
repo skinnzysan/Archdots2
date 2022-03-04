@@ -14,6 +14,8 @@ Dotfiles are configuration files for various programs, and they help those progr
 - **[Rofi](https://github.com/davatorium/rofi)**
 - **[Nitrogen](https://archlinux.org/packages/extra/x86_64/nitrogen/)**
 - **[ibhagwan Picom fork](https://github.com/ibhagwan/picom)**
+- **[cbonsai](https://gitlab.com/jallbrit/cbonsai)**
+- **[CLI epub reader](https://github.com/wustho/epr)**
 # Other
-**[Wallpaper](https://www.artstation.com/artwork/QrvZal)**
+**[A wallpaper that I edited myself](https://www.artstation.com/artwork/KY1rr)**
 ![Wallpaper](Pictures/wallpaper.jpg)

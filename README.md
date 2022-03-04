@@ -16,4 +16,4 @@ Dotfiles are configuration files for various programs, and they help those progr
 - **[ibhagwan Picom fork](https://github.com/ibhagwan/picom)**
 # Other
 **[Wallpaper](https://www.artstation.com/artwork/QrvZal)**
-![Wallpaper](Pictures/Wallpaper.jpg)
+![Wallpaper](Pictures/wallpaper.jpg)

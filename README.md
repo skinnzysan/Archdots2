@@ -4,8 +4,8 @@ Dotfiles are configuration files for various programs, and they help those progr
 ## ![Screenshot](Pictures/1.png)
 ## ![Screenshot](Pictures/2.png)
 ## The programs i use
-- **[xorg-xinit](https://archlinux.org/packages/extra/x86_64/xorg-xinit/)
-- **[i3-gaps](https://github.com/Airblader/i3)
+- **[xorg-xinit](https://archlinux.org/packages/extra/x86_64/xorg-xinit/)**
+- **[i3-gaps](https://github.com/Airblader/i3)**
 - **[Polybar](https://github.com/polybar/polybar)**
 - **[Kitty](https://github.com/kovidgoyal/kitty)**
 - **bash**
